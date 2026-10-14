@@ -1,0 +1,390 @@
+{
+  "schemaVersion": 1,
+  "auditComplete": true,
+  "toolVersion": "20.0.6980",
+  "bundleVersion": "6.0",
+  "bundleMembers": 192,
+  "runtimeFramework": "Microsoft.NETCore.App/10.0.11",
+  "runtimePackageCount": 16,
+  "integrityMethod": "Actual release deps package-content SHA512 compared using NuGet signed PackageArchiveReader; signed archive contents validated. This is package content integrity, not an online signing certificate chain audit.",
+  "components": [
+    {
+      "name": "Blake3/3.0.2",
+      "license": "BSD-2-Clause",
+      "authors": "Alexandre Mutel",
+      "copyright": "Alexandre Mutel",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/blake3/3.0.2/blake3.3.0.2.nupkg",
+      "repositoryUrl": "https://github.com/xoofx/Blake3.NET",
+      "repositoryCommit": "bc622edf7faa06d1a63c0f2f165c5f7c567a2e32",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "THvWhdj8ErSdrGamTqjshCU1ImANfr7ieKY6eFqeMsRenvXEKut9qGm5/MA4SUk8IYvAahf67jSh0yVj9jTPzg==",
+      "signedArchiveSha512": "SQq8DzbDuQWvRPLLP+f1EcPoFVMSf2ogfwJNvoF0SCVk0+u9uCCStbFXeCVTNpTPaxR5226uiRIYHYAD8iuTXw==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "Blake3-3.0.2-LICENSE.txt",
+        "BLAKE3-upstream-CC0.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "K4os.Compression.LZ4/1.3.8",
+      "license": "MIT",
+      "authors": "Milosz Krajewski",
+      "copyright": "Milosz Krajewski",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/k4os.compression.lz4/1.3.8/k4os.compression.lz4.1.3.8.nupkg",
+      "repositoryUrl": "https://github.com/MiloszKrajewski/K4os.Compression.LZ4",
+      "repositoryCommit": "",
+      "sourceTag": "1.3.8",
+      "releaseDepsContentSha512": "LhwlPa7c1zs1OV2XadMtAWdImjLIsqFJPoRcIWAadSRn0Ri1DepK65UbWLPmt4riLqx2d40xjXRk0ogpqNtK7g==",
+      "signedArchiveSha512": "34eaDMthZbtqtcybO1dXpqtIUbpmzUgTeglczK8wUMl8YPj5121wcO3YiEDAqPkt+wKbz6prigXG+Y3tXZyO1Q==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "K4os.Compression.LZ4-1.3.8-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "KeyValues2/0.8.0",
+      "license": "MIT",
+      "authors": "Datamodel.NET",
+      "copyright": "",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/keyvalues2/0.8.0/keyvalues2.0.8.0.nupkg",
+      "repositoryUrl": "https://github.com/kristiker/Datamodel.NET.git",
+      "repositoryCommit": "d06da8dd6bf351171dd448288f7ff945754054c9",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "B6QSRGR32KJibr4XiVTUW2taJmVMNwhhREFtZ8WUg/bEv8hwOlLDAcUpPgZVewTplR2T1Tl0J5o4ZkwPt7aOiA==",
+      "signedArchiveSha512": "POJH6Ahwad36QGyI5beKhygJMDqiXp6iDp6xZSfBVEBgqdu/kQ9aGP4z/UtL06G/MIM70u6YypfOfhpWIB1ZVw==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "keyvalues2.0.8.0-COPYING"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "SharpGLTF.Core/1.0.6",
+      "license": "MIT",
+      "authors": "Vicente Penades",
+      "copyright": "Copyright (c) 2025 Vicente Penades",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/sharpgltf.core/1.0.6/sharpgltf.core.1.0.6.nupkg",
+      "repositoryUrl": "https://github.com/vpenades/SharpGLTF",
+      "repositoryCommit": "5153478a209ca2e276d8092f7166ff9d7ae4974f",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "m3qIvUnpvRRfQ0fp0TFfpPk+vsHkCIOf/uIVJ19fe9dwa29KCO/PeHVXKAph8nsFxFLXitTIIqCa5W8JGLMhBg==",
+      "signedArchiveSha512": "+eZ9HvJ964Pt8oDBAnjeMnzSHhfwuGpyQ2/ae8jfxd8UkxX0vxBlxSgQhP8iG+IdhguOJZHYNUlG6EdpEZC7LQ==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "SharpGLTF.Core-1.0.6-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "SharpGLTF.Runtime/1.0.6",
+      "license": "MIT",
+      "authors": "Vicente Penades",
+      "copyright": "Copyright (c) 2025 Vicente Penades",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/sharpgltf.runtime/1.0.6/sharpgltf.runtime.1.0.6.nupkg",
+      "repositoryUrl": "https://github.com/vpenades/SharpGLTF",
+      "repositoryCommit": "5153478a209ca2e276d8092f7166ff9d7ae4974f",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "MVb0p0gzwnjHB03b0kMhf9bVUd6gSvs/jBpTkL6rMa0RtzSGARbCvZkpGbHXjxgSTncprEuzV4nAaaAucifc3Q==",
+      "signedArchiveSha512": "EWt3Ng6z6JM9FOb0K0we2PlMOf2zXHmiWE43gjrlqBGtWrKVBG/Uxnyq7n+MhMoDdtNB03St2Ki9+lwzWM1hHw==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "SharpGLTF.Runtime-1.0.6-LICENSE.txt"
+      ],
+      "dependencies": {
+        "SharpGLTF.Core": "1.0.6"
+      }
+    },
+    {
+      "name": "SharpGLTF.Toolkit/1.0.6",
+      "license": "MIT",
+      "authors": "Vicente Penades",
+      "copyright": "Copyright (c) 2025 Vicente Penades",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/sharpgltf.toolkit/1.0.6/sharpgltf.toolkit.1.0.6.nupkg",
+      "repositoryUrl": "https://github.com/vpenades/SharpGLTF",
+      "repositoryCommit": "5153478a209ca2e276d8092f7166ff9d7ae4974f",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "wb9Ebb4uwXevL4WiLlry29RWIYlxa+NiAa0BB8iSR7VbmgSa5Ij/QaPNlKi1jjA4oL8aEygg5V76zY1SJfIS+Q==",
+      "signedArchiveSha512": "iHbTwdtKxrfEJUam3ak1OZ6ZPtoFb/ZKrutxw05J2TZ19Dqcf6FE3Vg2XxJpDcs1SF1EReDsOaPbrdB+LYQGMQ==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "SharpGLTF.Toolkit-1.0.6-LICENSE.txt"
+      ],
+      "dependencies": {
+        "SharpGLTF.Runtime": "1.0.6"
+      }
+    },
+    {
+      "name": "SkiaSharp.NativeAssets.Win32/4.151.1",
+      "license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/skiasharp.nativeassets.win32/4.151.1/skiasharp.nativeassets.win32.4.151.1.nupkg",
+      "repositoryUrl": "https://go.microsoft.com/fwlink/?linkid=868515",
+      "repositoryCommit": "279f93f4ffa7f9fe4e9c0bc298bedc3c9e439764",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "G+nln30ZX2ZuhH+ungf6x/QMXCje38KTS0VTfQeMyeY8uyMBmsZwFz2D30ZxUjZqsVbEIcaC2bsYF65876s4Yg==",
+      "signedArchiveSha512": "IhVkNP0tyX/8hteJ6risThr2NHdcrau7R2UZVxgOw81CEGlfo6iICE2msl/qHQ2VUHDj0qHRb2vrcs1V2TZ6fQ==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "skiasharp.nativeassets.win32.4.151.1-LICENSE.txt",
+        "skiasharp.nativeassets.win32.4.151.1-THIRD-PARTY-NOTICES.txt",
+        "MPL-1.1.txt",
+        "Skia-SOURCE-NOTICE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "SkiaSharp/4.151.1",
+      "license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/skiasharp/4.151.1/skiasharp.4.151.1.nupkg",
+      "repositoryUrl": "https://go.microsoft.com/fwlink/?linkid=868515",
+      "repositoryCommit": "279f93f4ffa7f9fe4e9c0bc298bedc3c9e439764",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "FNlVsGZ9to3o9pObVqhIZanHjUGOoPb/Zxk5svCSLMJnKwxPKV7sIJrjs9BpB/jF3j9OdsaMOb4cfwSJbjueSw==",
+      "signedArchiveSha512": "PAyOpPWQLsCnTRo8vousKrxLxBKY/YrBcVg0NK2zi2KmLR6kWQOHe+VvaRI2XV7D3miV6oS1KUZho5xutOvyrA==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "skiasharp.4.151.1-LICENSE.txt"
+      ],
+      "dependencies": {
+        "SkiaSharp.NativeAssets.Win32": "4.151.1"
+      }
+    },
+    {
+      "name": "System.IO.Hashing/10.0.10",
+      "license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/system.io.hashing/10.0.10/system.io.hashing.10.0.10.nupkg",
+      "repositoryUrl": "https://github.com/dotnet/dotnet",
+      "repositoryCommit": "f7d90799ce4ef09a0bb257852a57248d2a8fb8dd",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "eE839zyWZD/UBZYzP2lu9fhHX6RWe63/jz3Jxf+JumzO/db+Vc2s7CMiDwxk9ti2NTUft2tdRx31Rw2OjKbecA==",
+      "signedArchiveSha512": "IOoPla5+lECtuZkBRflpdlD2Iz1hHWI78WcYo6vbmgzLs65Rm1FdLlIsOe4SCLwrwsFLwwMPdrlCmzONkvs5oQ==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "System.IO.Hashing-10.0.10-LICENSE.txt",
+        "system.io.hashing.10.0.10-THIRD-PARTY-NOTICES.TXT"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "TinyBCSharp/0.1.2",
+      "license": "MIT",
+      "authors": "JanDK",
+      "copyright": "",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/tinybcsharp/0.1.2/tinybcsharp.0.1.2.nupkg",
+      "repositoryUrl": "https://github.com/jandk/TinyBCSharp",
+      "repositoryCommit": "5eef47a45c603f00376c4f9c358c730309d058cf",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "XNqUm7oBpYlxQyUNjpNHk+pEBSlmGsl+wkK2mJU+WNTchwke7kfzdnUQCk0H4ANnIjggz6CKIJz5i/wEFAWJRQ==",
+      "signedArchiveSha512": "ZgC3srilvnQFQTNUMHM9pIY2Hy1EMJ8mSujKqH31V+03D+Zvxmhw5d7oFHACSsREG64F7MR9gvm4IA/kJmnhvg==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "TinyBCSharp-0.1.2-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "TinyEXR.NET/1.1.0",
+      "license": "MIT",
+      "authors": "ksgfk",
+      "copyright": "Copyright (c) 2023-2026 ksgfk",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/tinyexr.net/1.1.0/tinyexr.net.1.1.0.nupkg",
+      "repositoryUrl": "https://github.com/ksgfk/TinyEXR.NET",
+      "repositoryCommit": "9a55e13d9dca6a3d347d901a777ad04bccb444a9",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "Fh5LkkZS21DV2apJXDPgtDdJ8BMl4608ERoBr2zx82Nk2QHhSp+sGg+j0+ZEu/TVkYIfojzQDn280Vx8a4Iy4Q==",
+      "signedArchiveSha512": "mdKL/m+ubY0iP+kjF7Lj37vNNauk0v5NyIO2H7un8UpDNEy9QEq+ckLLNl75yQJXKJZgGAM9GWUxFbaGy+5Uow==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "TinyEXR.NET-1.1.0-LICENSE.txt",
+        "TinyEXR-OpenEXR-upstream-NOTICES.txt",
+        "OpenJPH-upstream-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "ValveKeyValue/0.70.0.499",
+      "license": "MIT",
+      "authors": "ValveKeyValue Contributors",
+      "copyright": "Copyright © ValveKeyValue Contributors",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/valvekeyvalue/0.70.0.499/valvekeyvalue.0.70.0.499.nupkg",
+      "repositoryUrl": "https://github.com/ValveResourceFormat/ValveKeyValue",
+      "repositoryCommit": "b0f2917f8c09697e9fd41c4f23647a34c5803f0d",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "4s1Sj71jxgxAbqs1wzkN2CuikKPsUEZE3/ZV6wsbMWnkzwO0elIbnQH4wMUXnRmAYG5GaYcdZ80sUcD5BWkGyw==",
+      "signedArchiveSha512": "rnr9rV+ty46ezhl2BBPd+DwuBeY86RYqSulrqZx2cl1eHioMLm1t6vCC8chPwzOgIYTWkjwvIrJgeqj7LYNGcA==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "ValveKeyValue-0.70.0.499-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "ValvePak/5.0.2.177",
+      "license": "MIT",
+      "authors": "ValvePak Contributors",
+      "copyright": "Copyright © ValvePak Contributors",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/valvepak/5.0.2.177/valvepak.5.0.2.177.nupkg",
+      "repositoryUrl": "https://github.com/ValveResourceFormat/ValvePak",
+      "repositoryCommit": "2adb4b00ed950b5ced012d8b6ac83d2d3a95ec29",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "pKmdPnjxDQHFIgPNLfKyOQEyhiRemV7M/j62LSw4hJ7CWgEOgqkRIg+CB88uAa4gJShF1LSYaWZma+OajaAzdw==",
+      "signedArchiveSha512": "3Eyl++ckdUF/zRt4qJEI5Dgd0L5fy66df7iLd2S+bZ1td/OHbUQZoiGpO2FZ4ciomUlqI0iDT9WnXP/qIHecLw==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "ValvePak-5.0.2.177-LICENSE.txt"
+      ],
+      "dependencies": {
+        "Blake3": "3.0.2",
+        "System.IO.Hashing": "10.0.10"
+      }
+    },
+    {
+      "name": "Vortice.SPIRV/1.0.5",
+      "license": "MIT",
+      "authors": "Amer Koleci",
+      "copyright": "Copyright (c) Amer Koleci and Contributors",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/vortice.spirv/1.0.5/vortice.spirv.1.0.5.nupkg",
+      "repositoryUrl": "https://github.com/amerkoleci/Vortice.Vulkan",
+      "repositoryCommit": "b9b56b6bf23bd119a22f519631d88b911bf9fa4e",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "+/d13hilxamYgHFrYr59hDf7Mh71JPNtgGaUjxpFuvGMJNG2+GqNZRkcOE9qO/1F6qG0FMrXdQkybW6xr5quWg==",
+      "signedArchiveSha512": "wAfu+ELBAR4wNa0pYitJIhKc07A6tgQjCX9gCLNpwleleyfXQGfAhIRV14z+cn9n0SA/cfBxnb1b8lT2dQb59w==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "Vortice.SPIRV-1.0.5-LICENSE.txt"
+      ],
+      "dependencies": null
+    },
+    {
+      "name": "Vortice.SpirvCross/1.5.4",
+      "license": "MIT",
+      "authors": "Amer Koleci",
+      "copyright": "Copyright (c) Amer Koleci and Contributors",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/vortice.spirvcross/1.5.4/vortice.spirvcross.1.5.4.nupkg",
+      "repositoryUrl": "https://github.com/amerkoleci/Vortice.Vulkan",
+      "repositoryCommit": "b9b56b6bf23bd119a22f519631d88b911bf9fa4e",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "Ql/EBstNj6qdYipKk8KE5l/CVe/JMJJ0Y2RFW+SXYy3MP8isQaHpSn4qgogOw0bh2Ht5gwqRPX/eutBKougSQg==",
+      "signedArchiveSha512": "EK0CTX3rILj4z/cA+r5E9GOXcP7g1Uta3GFbJwe/lUDdep8xZ9HGparbKLn14yEc760OSoR0U6P/4lAt780Wdw==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "Vortice.SpirvCross-1.5.4-LICENSE.txt",
+        "SPIRV-Cross-LICENSE.txt",
+        "SPIRV-Cross-MIT-LICENSE.txt",
+        "SPIRV-Cross-ATTRIBUTION.txt"
+      ],
+      "dependencies": {
+        "Vortice.SPIRV": "1.0.5"
+      }
+    },
+    {
+      "name": "ZstdSharp.Port/0.8.8",
+      "license": "MIT",
+      "authors": "Oleg Stepanischev",
+      "copyright": "Copyright Oleg Stepanischev 2026",
+      "packageSource": "https://api.nuget.org/v3-flatcontainer/zstdsharp.port/0.8.8/zstdsharp.port.0.8.8.nupkg",
+      "repositoryUrl": "https://github.com/oleg-st/ZstdSharp.git",
+      "repositoryCommit": "2cd0c019693bc786a5fe5c3be94e107b24e7267e",
+      "sourceTag": null,
+      "releaseDepsContentSha512": "UIDFkA5DC3en3tOJ3Mof11yBx9kUQLsaeo/oFdvN6Bbkr9E9+VCqfIadHci8cu+I51K2Sl7XYWVl2R/mA75NBQ==",
+      "signedArchiveSha512": "i6O1GP8E6Mh0frx9gryhb6s2sOWiOAi2h4aB4TDOof+39OE5aWTKiyU37vE6YXDvHM4MkNbIU2untq2W+g4m+w==",
+      "packageContentHashVerified": true,
+      "signatureContentIntegrityVerified": true,
+      "noticeFiles": [
+        "ZstdSharp.Port-0.8.8-LICENSE.txt",
+        "Zstandard-1.5.7-LICENSE.txt"
+      ],
+      "dependencies": null
+    }
+  ],
+  "nativeFiles": [
+    {
+      "skiaSourceCommit": "bdd0c3a8eaba1afa7148f02bba3a07f94e682847",
+      "exactPackageBytesVerified": true,
+      "sha256": "0d98e29c028b3315d0e0344d02cd7aa4080abdf17fa67086847da13435320f2a",
+      "name": "libSkiaSharp.dll",
+      "package": "SkiaSharp.NativeAssets.Win32/4.151.1"
+    },
+    {
+      "licenseEvidence": "Published immutable Vortice source identifies Khronos SPIRV-Cross; upstream source licenses Apache-2.0 OR MIT with MIT SPIRV headers. Binary version identified by exact signed package/hash, not guessed SDK source tag.",
+      "package": "Vortice.SpirvCross/1.5.4",
+      "nativeSourceRevisionPublished": false,
+      "exactPackageBytesVerified": true,
+      "name": "spirv-cross.dll",
+      "sha256": "6426b3f1a11f6a324569794cd44ab97905009a77bd3be12a4e7fe42cede774c2"
+    }
+  ],
+  "extraNotices": [
+    {
+      "noticeFiles": [
+        "Dotnet-LICENSE.txt",
+        "Dotnet-ThirdPartyNotices.txt"
+      ],
+      "source": "https://github.com/dotnet/runtime/tree/v10.0.11",
+      "name": "Microsoft.NETCore.App/10.0.11",
+      "license": "MIT with third-party notices"
+    },
+    {
+      "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
+      "source": "https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/ValveResourceFormat/Utils/RobotoAscii.ttf",
+      "noticeFiles": [
+        "Roboto-LICENSE.txt",
+        "Roboto-ATTRIBUTION.txt"
+      ],
+      "sha256": "bfb4ad8a09b883dd200072bf665c0bee06c1ea2df94eeda5361c38453c8f5665",
+      "name": "RobotoAscii.ttf",
+      "license": "Apache-2.0"
+    },
+    {
+      "noticeFiles": [
+        "ConsoleAppFramework-5.7.13-LICENSE.txt"
+      ],
+      "source": "https://github.com/Cysharp/ConsoleAppFramework/tree/438f283603c4ac4136965c99d547cea19828e680",
+      "scope": "Compile-time source generator, no runtime assembly/package in release deps; notice retained for generated code",
+      "name": "ConsoleAppFramework/5.7.13",
+      "license": "MIT"
+    }
+  ],
+  "excludedRuntime": [
+    "GUI",
+    "Renderer",
+    "FCTB",
+    "NAudio",
+    "NLayer",
+    "OpenTK",
+    "Svg.Skia",
+    "Microsoft.Windows.CsWin32",
+    "SkiaSharp.NativeAssets.Linux.NoDependencies",
+    "SharpZipLib (TinyEXR netstandard-only)",
+    "Blake3.Native"
+  ],
+  "sourceEvidence": [
+    "https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/CLI/CLI.csproj",
+    "https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/ValveResourceFormat/ValveResourceFormat.csproj",
+    "https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/GUI/GUI.csproj",
+    "https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/.github/workflows/build.yml"
+  ],
+  "scope": "Exact official Windows x64 release, unmodified upstream binaries and embedded/ported code; retain full publisher notices. No Valve maps or private data."
+}

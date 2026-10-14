@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Source2Viewer-CLI/20.0.6980",
+    "type": "project",
+    "sha512": "",
+    "dependencies": {
+      "ValveResourceFormat": "20.0.6980",
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.11"
+    },
+    "runtimeFiles": [
+      "Source2Viewer-CLI.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/10.0.11",
+    "type": "runtimepack",
+    "sha512": "",
+    "dependencies": null,
+    "runtimeFiles": [
+      "Microsoft.CSharp.dll",
+      "Microsoft.VisualBasic.Core.dll",
+      "Microsoft.VisualBasic.dll",
+      "Microsoft.Win32.Primitives.dll",
+      "Microsoft.Win32.Registry.dll",
+      "System.AppContext.dll",
+      "System.Buffers.dll",
+      "System.Collections.Concurrent.dll",
+      "System.Collections.Immutable.dll",
+      "System.Collections.NonGeneric.dll",
+      "System.Collections.Specialized.dll",
+      "System.Collections.dll",
+      "System.ComponentModel.Annotations.dll",
+      "System.ComponentModel.DataAnnotations.dll",
+      "System.ComponentModel.EventBasedAsync.dll",
+      "System.ComponentModel.Primitives.dll",
+      "System.ComponentModel.TypeConverter.dll",
+      "System.ComponentModel.dll",
+      "System.Configuration.dll",
+      "System.Console.dll",
+      "System.Core.dll",
+      "System.Data.Common.dll",
+      "System.Data.DataSetExtensions.dll",
+      "System.Data.dll",
+      "System.Diagnostics.Contracts.dll",
+      "System.Diagnostics.Debug.dll",
+      "System.Diagnostics.DiagnosticSource.dll",
+      "System.Diagnostics.FileVersionInfo.dll",
+      "System.Diagnostics.Process.dll",
+      "System.Diagnostics.StackTrace.dll",
+      "System.Diagnostics.TextWriterTraceListener.dll",
+      "System.Diagnostics.Tools.dll",
+      "System.Diagnostics.TraceSource.dll",
+      "System.Diagnostics.Tracing.dll",
+      "System.Drawing.Primitives.dll",
+      "System.Drawing.dll",
+      "System.Dynamic.Runtime.dll",
+      "System.Formats.Asn1.dll",
+      "System.Formats.Tar.dll",
+      "System.Globalization.Calendars.dll",
+      "System.Globalization.Extensions.dll",
+      "System.Globalization.dll",
+      "System.IO.Compression.Brotli.dll",
+      "System.IO.Compression.FileSystem.dll",
+      "System.IO.Compression.ZipFile.dll",
+      "System.IO.Compression.dll",
+      "System.IO.FileSystem.AccessControl.dll",
+      "System.IO.FileSystem.DriveInfo.dll",
+      "System.IO.FileSystem.Primitives.dll",
+      "System.IO.FileSystem.Watcher.dll",
+      "System.IO.FileSystem.dll",
+      "System.IO.IsolatedStorage.dll",
+      "System.IO.MemoryMappedFiles.dll",
+      "System.IO.Pipelines.dll",
+      "System.IO.Pipes.AccessControl.dll",
+      "System.IO.Pipes.dll",
+      "System.IO.UnmanagedMemoryStream.dll",
+      "System.IO.dll",
+      "System.Linq.AsyncEnumerable.dll",
+      "System.Linq.Expressions.dll",
+      "System.Linq.Parallel.dll",
+      "System.Linq.Queryable.dll",
+      "System.Linq.dll",
+      "System.Memory.dll",
+      "System.Net.Http.Json.dll",
+      "System.Net.Http.dll",
+      "System.Net.HttpListener.dll",
+      "System.Net.Mail.dll",
+      "System.Net.NameResolution.dll",
+      "System.Net.NetworkInformation.dll",
+      "System.Net.Ping.dll",
+      "System.Net.Primitives.dll",
+      "System.Net.Quic.dll",
+      "System.Net.Requests.dll",
+      "System.Net.Security.dll",
+      "System.Net.ServerSentEvents.dll",
+      "System.Net.ServicePoint.dll",
+      "System.Net.Sockets.dll",
+      "System.Net.WebClient.dll",
+      "System.Net.WebHeaderCollection.dll",
+      "System.Net.WebProxy.dll",
+      "System.Net.WebSockets.Client.dll",
+      "System.Net.WebSockets.dll",
+      "System.Net.dll",
+      "System.Numerics.Vectors.dll",
+      "System.Numerics.dll",
+      "System.ObjectModel.dll",
+      "System.Private.CoreLib.dll",
+      "System.Private.DataContractSerialization.dll",
+      "System.Private.Uri.dll",
+      "System.Private.Xml.Linq.dll",
+      "System.Private.Xml.dll",
+      "System.Reflection.DispatchProxy.dll",
+      "System.Reflection.Emit.ILGeneration.dll",
+      "System.Reflection.Emit.Lightweight.dll",
+      "System.Reflection.Emit.dll",
+      "System.Reflection.Extensions.dll",
+      "System.Reflection.Metadata.dll",
+      "System.Reflection.Primitives.dll",
+      "System.Reflection.TypeExtensions.dll",
+      "System.Reflection.dll",
+      "System.Resources.Reader.dll",
+      "System.Resources.ResourceManager.dll",
+      "System.Resources.Writer.dll",
+      "System.Runtime.CompilerServices.Unsafe.dll",
+      "System.Runtime.CompilerServices.VisualC.dll",
+      "System.Runtime.Extensions.dll",
+      "System.Runtime.Handles.dll",
+      "System.Runtime.InteropServices.JavaScript.dll",
+      "System.Runtime.InteropServices.RuntimeInformation.dll",
+      "System.Runtime.InteropServices.dll",
+      "System.Runtime.Intrinsics.dll",
+      "System.Runtime.Loader.dll",
+      "System.Runtime.Numerics.dll",
+      "System.Runtime.Serialization.Formatters.dll",
+      "System.Runtime.Serialization.Json.dll",
+      "System.Runtime.Serialization.Primitives.dll",
+      "System.Runtime.Serialization.Xml.dll",
+      "System.Runtime.Serialization.dll",
+      "System.Runtime.dll",
+      "System.Security.AccessControl.dll",
+      "System.Security.Claims.dll",
+      "System.Security.Cryptography.Algorithms.dll",
+      "System.Security.Cryptography.Cng.dll",
+      "System.Security.Cryptography.Csp.dll",
+      "System.Security.Cryptography.Encoding.dll",
+      "System.Security.Cryptography.OpenSsl.dll",
+      "System.Security.Cryptography.Primitives.dll",
+      "System.Security.Cryptography.X509Certificates.dll",
+      "System.Security.Cryptography.dll",
+      "System.Security.Principal.Windows.dll",
+      "System.Security.Principal.dll",
+      "System.Security.SecureString.dll",
+      "System.Security.dll",
+      "System.ServiceModel.Web.dll",
+      "System.ServiceProcess.dll",
+      "System.Text.Encoding.CodePages.dll",
+      "System.Text.Encoding.Extensions.dll",
+      "System.Text.Encoding.dll",
+      "System.Text.Encodings.Web.dll",
+      "System.Text.Json.dll",
+      "System.Text.RegularExpressions.dll",
+      "System.Threading.AccessControl.dll",
+      "System.Threading.Channels.dll",
+      "System.Threading.Overlapped.dll",
+      "System.Threading.Tasks.Dataflow.dll",
+      "System.Threading.Tasks.Extensions.dll",
+      "System.Threading.Tasks.Parallel.dll",
+      "System.Threading.Tasks.dll",
+      "System.Threading.Thread.dll",
+      "System.Threading.ThreadPool.dll",
+      "System.Threading.Timer.dll",
+      "System.Threading.dll",
+      "System.Transactions.Local.dll",
+      "System.Transactions.dll",
+      "System.ValueTuple.dll",
+      "System.Web.HttpUtility.dll",
+      "System.Web.dll",
+      "System.Windows.dll",
+      "System.Xml.Linq.dll",
+      "System.Xml.ReaderWriter.dll",
+      "System.Xml.Serialization.dll",
+      "System.Xml.XDocument.dll",
+      "System.Xml.XPath.XDocument.dll",
+      "System.Xml.XPath.dll",
+      "System.Xml.XmlDocument.dll",
+      "System.Xml.XmlSerializer.dll",
+      "System.Xml.dll",
+      "System.dll",
+      "WindowsBase.dll",
+      "mscorlib.dll",
+      "netstandard.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "Blake3/3.0.2",
+    "type": "package",
+    "sha512": "sha512-THvWhdj8ErSdrGamTqjshCU1ImANfr7ieKY6eFqeMsRenvXEKut9qGm5/MA4SUk8IYvAahf67jSh0yVj9jTPzg==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net8.0/Blake3.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "K4os.Compression.LZ4/1.3.8",
+    "type": "package",
+    "sha512": "sha512-LhwlPa7c1zs1OV2XadMtAWdImjLIsqFJPoRcIWAadSRn0Ri1DepK65UbWLPmt4riLqx2d40xjXRk0ogpqNtK7g==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net6.0/K4os.Compression.LZ4.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "KeyValues2/0.8.0",
+    "type": "package",
+    "sha512": "sha512-B6QSRGR32KJibr4XiVTUW2taJmVMNwhhREFtZ8WUg/bEv8hwOlLDAcUpPgZVewTplR2T1Tl0J5o4ZkwPt7aOiA==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net9.0/Datamodel.NET.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "SharpGLTF.Core/1.0.6",
+    "type": "package",
+    "sha512": "sha512-m3qIvUnpvRRfQ0fp0TFfpPk+vsHkCIOf/uIVJ19fe9dwa29KCO/PeHVXKAph8nsFxFLXitTIIqCa5W8JGLMhBg==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net10.0/SharpGLTF.Core.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "SharpGLTF.Runtime/1.0.6",
+    "type": "package",
+    "sha512": "sha512-MVb0p0gzwnjHB03b0kMhf9bVUd6gSvs/jBpTkL6rMa0RtzSGARbCvZkpGbHXjxgSTncprEuzV4nAaaAucifc3Q==",
+    "dependencies": {
+      "SharpGLTF.Core": "1.0.6"
+    },
+    "runtimeFiles": [
+      "lib/net10.0/SharpGLTF.Runtime.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "SharpGLTF.Toolkit/1.0.6",
+    "type": "package",
+    "sha512": "sha512-wb9Ebb4uwXevL4WiLlry29RWIYlxa+NiAa0BB8iSR7VbmgSa5Ij/QaPNlKi1jjA4oL8aEygg5V76zY1SJfIS+Q==",
+    "dependencies": {
+      "SharpGLTF.Runtime": "1.0.6"
+    },
+    "runtimeFiles": [
+      "lib/net10.0/SharpGLTF.Toolkit.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "SkiaSharp/4.151.1",
+    "type": "package",
+    "sha512": "sha512-FNlVsGZ9to3o9pObVqhIZanHjUGOoPb/Zxk5svCSLMJnKwxPKV7sIJrjs9BpB/jF3j9OdsaMOb4cfwSJbjueSw==",
+    "dependencies": {
+      "SkiaSharp.NativeAssets.Win32": "4.151.1"
+    },
+    "runtimeFiles": [
+      "lib/net10.0/SkiaSharp.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "SkiaSharp.NativeAssets.Win32/4.151.1",
+    "type": "package",
+    "sha512": "sha512-G+nln30ZX2ZuhH+ungf6x/QMXCje38KTS0VTfQeMyeY8uyMBmsZwFz2D30ZxUjZqsVbEIcaC2bsYF65876s4Yg==",
+    "dependencies": null,
+    "runtimeFiles": [
+      null
+    ],
+    "nativeFiles": [
+      "runtimes/win-x64/native/libSkiaSharp.dll",
+      "runtimes/win-x64/native/libSkiaSharp.pdb"
+    ]
+  },
+  {
+    "name": "System.IO.Hashing/10.0.10",
+    "type": "package",
+    "sha512": "sha512-eE839zyWZD/UBZYzP2lu9fhHX6RWe63/jz3Jxf+JumzO/db+Vc2s7CMiDwxk9ti2NTUft2tdRx31Rw2OjKbecA==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net10.0/System.IO.Hashing.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "TinyBCSharp/0.1.2",
+    "type": "package",
+    "sha512": "sha512-XNqUm7oBpYlxQyUNjpNHk+pEBSlmGsl+wkK2mJU+WNTchwke7kfzdnUQCk0H4ANnIjggz6CKIJz5i/wEFAWJRQ==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net8.0/TinyBCSharp.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "TinyEXR.NET/1.1.0",
+    "type": "package",
+    "sha512": "sha512-Fh5LkkZS21DV2apJXDPgtDdJ8BMl4608ERoBr2zx82Nk2QHhSp+sGg+j0+ZEu/TVkYIfojzQDn280Vx8a4Iy4Q==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net8.0/TinyEXR.NET.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "ValveKeyValue/0.70.0.499",
+    "type": "package",
+    "sha512": "sha512-4s1Sj71jxgxAbqs1wzkN2CuikKPsUEZE3/ZV6wsbMWnkzwO0elIbnQH4wMUXnRmAYG5GaYcdZ80sUcD5BWkGyw==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net10.0/ValveKeyValue.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "ValvePak/5.0.2.177",
+    "type": "package",
+    "sha512": "sha512-pKmdPnjxDQHFIgPNLfKyOQEyhiRemV7M/j62LSw4hJ7CWgEOgqkRIg+CB88uAa4gJShF1LSYaWZma+OajaAzdw==",
+    "dependencies": {
+      "Blake3": "3.0.2",
+      "System.IO.Hashing": "10.0.10"
+    },
+    "runtimeFiles": [
+      "lib/net10.0/ValvePak.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "Vortice.SPIRV/1.0.5",
+    "type": "package",
+    "sha512": "sha512-+/d13hilxamYgHFrYr59hDf7Mh71JPNtgGaUjxpFuvGMJNG2+GqNZRkcOE9qO/1F6qG0FMrXdQkybW6xr5quWg==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net10.0/Vortice.SPIRV.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "Vortice.SpirvCross/1.5.4",
+    "type": "package",
+    "sha512": "sha512-Ql/EBstNj6qdYipKk8KE5l/CVe/JMJJ0Y2RFW+SXYy3MP8isQaHpSn4qgogOw0bh2Ht5gwqRPX/eutBKougSQg==",
+    "dependencies": {
+      "Vortice.SPIRV": "1.0.5"
+    },
+    "runtimeFiles": [
+      "lib/net10.0/Vortice.SpirvCross.dll"
+    ],
+    "nativeFiles": [
+      "runtimes/win-x64/native/spirv-cross.dll"
+    ]
+  },
+  {
+    "name": "ZstdSharp.Port/0.8.8",
+    "type": "package",
+    "sha512": "sha512-UIDFkA5DC3en3tOJ3Mof11yBx9kUQLsaeo/oFdvN6Bbkr9E9+VCqfIadHci8cu+I51K2Sl7XYWVl2R/mA75NBQ==",
+    "dependencies": null,
+    "runtimeFiles": [
+      "lib/net9.0/ZstdSharp.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  },
+  {
+    "name": "ValveResourceFormat/20.0.6980",
+    "type": "project",
+    "sha512": "",
+    "dependencies": {
+      "K4os.Compression.LZ4": "1.3.8",
+      "KeyValues2": "0.8.0",
+      "SharpGLTF.Toolkit": "1.0.6",
+      "SkiaSharp": "4.151.1",
+      "System.IO.Hashing": "10.0.10",
+      "TinyBCSharp": "0.1.2",
+      "TinyEXR.NET": "1.1.0",
+      "ValveKeyValue": "0.70.0.499",
+      "ValvePak": "5.0.2.177",
+      "Vortice.SpirvCross": "1.5.4",
+      "ZstdSharp.Port": "0.8.8"
+    },
+    "runtimeFiles": [
+      "ValveResourceFormat.dll"
+    ],
+    "nativeFiles": [
+      null
+    ]
+  }
+]

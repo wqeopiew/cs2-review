@@ -1,0 +1,30 @@
+This software is based in part on the work of the Independent JPEG Group.
+
+Source2Viewer 20.0 redistributes unmodified libSkiaSharp.dll from the signed
+SkiaSharp.NativeAssets.Win32 4.151.1 package. Its complete publisher LICENSE
+and THIRD-PARTY-NOTICES accompany this file. Those notices cover a broader
+upstream tree and are retained intact, including unused component notices.
+
+Exact package repository source:
+https://github.com/mono/SkiaSharp/tree/279f93f4ffa7f9fe4e9c0bc298bedc3c9e439764
+Exact Skia submodule:
+https://github.com/mono/skia/tree/bdd0c3a8eaba1afa7148f02bba3a07f94e682847
+Exact dependent source revisions:
+https://github.com/mono/skia/blob/bdd0c3a8eaba1afa7148f02bba3a07f94e682847/DEPS
+Native build instructions:
+https://github.com/mono/SkiaSharp/blob/279f93f4ffa7f9fe4e9c0bc298bedc3c9e439764/native/windows/build.cake
+
+The package source builds target SkiaSharp, depending on skia, pathops and
+skottie. libmicrohttpd is absent from this version's BUILD.gn and DEPS.
+The GIF target uses Wuffs, rather than the historical Mozilla GIF decoder.
+The notice file's libmicrohttpd LGPL text is not evidence that this binary
+links that developer utility. HarfBuzz and ICU are disabled in the native
+Windows build; their aggregate notices are still preserved.
+
+For any Mozilla tri-licensed material described in the retained notices,
+the MPL 1.1 alternative is selected. The source code is publicly available
+at the exact source/submodule/dependency locations above under its original
+terms, including MPL 1.1 for covered files. MPL-1.1.txt is included. This
+project makes no changes to this native library or its covered code and
+does not restrict rights in that source. Upstream warranties and support
+are not provided by this project.

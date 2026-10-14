@@ -1,0 +1,205 @@
+{
+  "version": "20.0.6980+a06886f7d06049052d32a7381ec05523064a2ca0",
+  "sourceLicense": "https://raw.githubusercontent.com/ValveResourceFormat/ValveResourceFormat/20.0/LICENSE",
+  "runtimeFiles": [
+    {
+      "path": "Source2Viewer-CLI.exe",
+      "bytes": 113190632,
+      "sha256": "a4bb4f9945db985efb2cad90a90d06867de5ba7e0447a2a4a69a07dace781028"
+    },
+    {
+      "path": "libSkiaSharp.dll",
+      "bytes": 12272440,
+      "sha256": "0d98e29c028b3315d0e0344d02cd7aa4080abdf17fa67086847da13435320f2a"
+    },
+    {
+      "path": "spirv-cross.dll",
+      "bytes": 2138112,
+      "sha256": "6426b3f1a11f6a324569794cd44ab97905009a77bd3be12a4e7fe42cede774c2"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 1100,
+      "sha256": "19549e9b3203eaf3938f35f98e63fc6b166a16af29936affa3df6ec7e2ae7f8d"
+    },
+    {
+      "path": "notices/Blake3-3.0.2-LICENSE.txt",
+      "bytes": 1628,
+      "sha256": "7f7d75677fb85a9a2cb8146e5a96eec2d574654ce54e5c70a820531ece14b073"
+    },
+    {
+      "path": "notices/BLAKE3-upstream-CC0.txt",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "notices/COMPONENTS.json",
+      "bytes": 18543,
+      "sha256": "8c9cb1cba66c49f103a30db01a7d3906a36087475745ef60ccf59467ccb32f50"
+    },
+    {
+      "path": "notices/ConsoleAppFramework-5.7.13-LICENSE.txt",
+      "bytes": 1070,
+      "sha256": "f3e6cffb78d6d94fa37fd26ada7294c3284b6b89940b5645f93ed24cdd5b36b0"
+    },
+    {
+      "path": "notices/Dotnet-LICENSE.txt",
+      "bytes": 1116,
+      "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+    },
+    {
+      "path": "notices/Dotnet-ThirdPartyNotices.txt",
+      "bytes": 76623,
+      "sha256": "66f1d4e44973185519bb4aa8a9718eb22fc7af2cc532e3ae9cfc4c127ee7fc54"
+    },
+    {
+      "path": "notices/K4os.Compression.LZ4-1.3.8-LICENSE.txt",
+      "bytes": 1073,
+      "sha256": "ef5a021fc2ae3658f4ad8d2526c87fb2cf394285f47abfb784cf73a27ffd9522"
+    },
+    {
+      "path": "notices/keyvalues2.0.8.0-COPYING",
+      "bytes": 1121,
+      "sha256": "28762bd1e2393dc04904f1153660a3f1388c03f6976a94c765d99876058081cc"
+    },
+    {
+      "path": "notices/MPL-1.1.txt",
+      "bytes": 25755,
+      "sha256": "f849fc26a7a99981611a3a370e83078deb617d12a45776d6c4cada4d338be469"
+    },
+    {
+      "path": "notices/OpenJPH-upstream-LICENSE.txt",
+      "bytes": 1448,
+      "sha256": "5ddf5177863dfc9ab65fa129d587db651241f00e21ed2427b218bea997591f98"
+    },
+    {
+      "path": "notices/Roboto-ATTRIBUTION.txt",
+      "bytes": 561,
+      "sha256": "af6262875eeee388418c9d905bb099f08d050ac54fa8622cc707f86cf58d53c0"
+    },
+    {
+      "path": "notices/Roboto-LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/SharpGLTF.Core-1.0.6-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "5e720094b3423cc2c1aef53325f2b99145d45155e36b81adb9063d18a552e469"
+    },
+    {
+      "path": "notices/SharpGLTF.Runtime-1.0.6-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "5e720094b3423cc2c1aef53325f2b99145d45155e36b81adb9063d18a552e469"
+    },
+    {
+      "path": "notices/SharpGLTF.Toolkit-1.0.6-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "5e720094b3423cc2c1aef53325f2b99145d45155e36b81adb9063d18a552e469"
+    },
+    {
+      "path": "notices/Skia-SOURCE-NOTICE.txt",
+      "bytes": 1747,
+      "sha256": "737345245ec388f54311da212636fa85f142160bf9b2ceaf5f753b6a6fa28964"
+    },
+    {
+      "path": "notices/skiasharp.4.151.1-LICENSE.txt",
+      "bytes": 1129,
+      "sha256": "89101e35a8c66fd4d6dffc1763259161d35cb564c169714ec227a768c89f2938"
+    },
+    {
+      "path": "notices/skiasharp.nativeassets.win32.4.151.1-LICENSE.txt",
+      "bytes": 1129,
+      "sha256": "89101e35a8c66fd4d6dffc1763259161d35cb564c169714ec227a768c89f2938"
+    },
+    {
+      "path": "notices/skiasharp.nativeassets.win32.4.151.1-THIRD-PARTY-NOTICES.txt",
+      "bytes": 139775,
+      "sha256": "21504c46c4c58aa64c1055bd2dcbc5f9a136b4b8c412ed3cc6740e22c5b127f5"
+    },
+    {
+      "path": "notices/SPIRV-Cross-ATTRIBUTION.txt",
+      "bytes": 551,
+      "sha256": "32c2e6e9cbbfd916c7a478738f23d6ccd9b945e657362490e7529ae608ef7506"
+    },
+    {
+      "path": "notices/SPIRV-Cross-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "notices/SPIRV-Cross-MIT-LICENSE.txt",
+      "bytes": 1108,
+      "sha256": "8f25018489d6fe0dec34a352314c38dc146247b7de65735790f4398a92afa84b"
+    },
+    {
+      "path": "notices/System.IO.Hashing-10.0.10-LICENSE.txt",
+      "bytes": 1116,
+      "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+    },
+    {
+      "path": "notices/system.io.hashing.10.0.10-THIRD-PARTY-NOTICES.TXT",
+      "bytes": 78041,
+      "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+    },
+    {
+      "path": "notices/TinyBCSharp-0.1.2-LICENSE.txt",
+      "bytes": 1068,
+      "sha256": "ca95d5d74a4cd4704cc19863d9141fd3fc1775f2a51106468801a85df4f6cd7c"
+    },
+    {
+      "path": "notices/TinyEXR-OpenEXR-upstream-NOTICES.txt",
+      "bytes": 3464,
+      "sha256": "aaec844a75c418f60b7a2b33edfbe2a2e53573ce9e47963f69d28165cb10e1b8"
+    },
+    {
+      "path": "notices/TinyEXR.NET-1.1.0-LICENSE.txt",
+      "bytes": 1088,
+      "sha256": "30ec59c966331b7f029a579410fbd69577456eaeb078c752e0b274e9fbdc0345"
+    },
+    {
+      "path": "notices/ValveKeyValue-0.70.0.499-LICENSE.txt",
+      "bytes": 1093,
+      "sha256": "9b7097b8aeaea38ffe59e3e5de30879064332c9477384851e5df300825764958"
+    },
+    {
+      "path": "notices/ValvePak-5.0.2.177-LICENSE.txt",
+      "bytes": 1130,
+      "sha256": "f254d7ab2ba0281da8510d69de18693d592391beae254d46e3dd75376bc389f7"
+    },
+    {
+      "path": "notices/Vortice.SPIRV-1.0.5-LICENSE.txt",
+      "bytes": 1090,
+      "sha256": "82bd4e84d144bebbb519ed05899f0ceaeaf2e0f95160ac32fd8cc388710c76d0"
+    },
+    {
+      "path": "notices/Vortice.SpirvCross-1.5.4-LICENSE.txt",
+      "bytes": 1090,
+      "sha256": "82bd4e84d144bebbb519ed05899f0ceaeaf2e0f95160ac32fd8cc388710c76d0"
+    },
+    {
+      "path": "notices/Zstandard-1.5.7-LICENSE.txt",
+      "bytes": 1549,
+      "sha256": "7055266497633c9025b777c78eb7235af13922117480ed5c674677adc381c9d8"
+    },
+    {
+      "path": "notices/ZstdSharp.Port-0.8.8-LICENSE.txt",
+      "bytes": 1074,
+      "sha256": "9a6a7216e532c4ee4f78881d31fb641c27148eb01b2d0e8e3235ffe9a70a662c"
+    }
+  ],
+  "noticeScope": "Exact .NET 10.0.11 runtime, 16 signed release packages and all recorded dependency/ported/native notices, embedded Roboto, compile-time ConsoleAppFramework generated-code notice. COMPONENTS.json records provenance and exclusions.",
+  "schemaVersion": 1,
+  "workspaceToolDirectory": ".tools/source2viewer-20.0",
+  "source": "https://github.com/ValveResourceFormat/ValveResourceFormat/releases/download/20.0/cli-windows-x64.zip",
+  "license": "MIT",
+  "archiveSha256": "d32ab327b8bbb42a2528866afb03bb582bdb779d0005488da32b90292afd3ff5",
+  "publishDirectory": "map-tools",
+  "containsValveMapAssets": false,
+  "tool": "Source2Viewer-CLI",
+  "auditComplete": true,
+  "runtimeFramework": "Microsoft.NETCore.App/10.0.11",
+  "runtimePackageCount": 16,
+  "nativePackageBytesVerified": true,
+  "noticeSourceDirectory": "tools/cs2-map-exporter"
+}

@@ -1,0 +1,14 @@
+ * Copyright 2014-2016,2021 The Khronos Group, Inc.
+ * Copyright 2015-2021 Arm Limited
+ * Copyright 2016-2021 Arm Limited
+ * Copyright 2016-2021 Robert Konrad
+ * Copyright 2016-2021 The Brenwill Workshop Ltd.
+ * Copyright 2018-2021 Arm Limited
+ * Copyright 2018-2021 Bradley Austin Davis
+ * Copyright 2019-2021 Hans-Kristian Arntzen
+ * SPDX-License-Identifier: Apache-2.0 OR MIT
+ * SPDX-License-Identifier: MIT
+** Copyright: 2014-2024 The Khronos Group Inc.
+** License: MIT
+// Copyright: 2014-2024 The Khronos Group Inc.
+// License: MIT

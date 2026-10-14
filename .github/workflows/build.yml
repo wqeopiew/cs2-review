@@ -1,0 +1,23 @@
+name: Windows build
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare local toolchain
+        shell: pwsh
+        run: ./scripts/bootstrap.ps1
+      - name: Test and package
+        shell: pwsh
+        run: ./scripts/build.ps1 -Publish -SmokeTest
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CS2Review-win-x64
+          path: artifacts/CS2Review-win-x64.zip

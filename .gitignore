@@ -1,0 +1,22 @@
+.tools/
+.superpowers/
+artifacts/
+**/bin/
+**/obj/
+*.dem
+*.db
+*.db-shm
+*.db-wal
+*.user
+.vs/
+data/
+
+# Keep recordings, personal configuration and build data local.
+.env
+.env.*
+settings.json
+*.pdb
+*.ndjson
+cache/
+docs/superpowers/
+docs/validation.md

@@ -1,0 +1,4 @@
+# Preserve the exact bytes of upstream notices pinned by the runtime manifest.
+tools/cs2-map-exporter/LICENSE.txt -text -whitespace
+tools/cs2-map-exporter/notices/** -text -whitespace
+licenses/** -text -whitespace

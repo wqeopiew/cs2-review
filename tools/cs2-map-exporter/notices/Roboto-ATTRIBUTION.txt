@@ -1,0 +1,7 @@
+Embedded font: ValveResourceFormat/Utils/RobotoAscii.ttf at Source2Viewer 20.0.
+Font name table copyright: Copyright 2011 Google Inc. All Rights Reserved.
+Font name table license URL: http://www.apache.org/licenses/LICENSE-2.0
+Redistributed under Apache License 2.0; see Roboto-LICENSE.txt.
+The upstream project's ASCII subset is redistributed without further changes.
+Source: https://github.com/ValveResourceFormat/ValveResourceFormat/blob/20.0/ValveResourceFormat/Utils/RobotoAscii.ttf
+SHA256: bfb4ad8a09b883dd200072bf665c0bee06c1ea2df94eeda5361c38453c8f5665
